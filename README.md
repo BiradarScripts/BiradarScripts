@@ -3,7 +3,6 @@
 <h3 align="center">I am a Student at IIIT Banglore</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShreyasBi&label=Profile%20views&color=0e75b6&style=flat" alt="ShreyasBi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShreyasBi&theme=" alt="ShreyasBi" /></a> </p>
 
 - 🔭 I’m currently working on [IRoC-U](https://www.ursc.gov.in/IRoC-U2024/challenge.jsp#main)
 - 🤝 I’m looking for help with [ApnaDoctor](https://github.com/ShreyasBi/Apna-Doctor)
