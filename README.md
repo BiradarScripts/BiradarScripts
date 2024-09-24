@@ -1,10 +1,13 @@
 ![Masterhead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+
 <h1 align="center">Hi 👋, I'm Shreyas Biradar</h1>
 <h3 align="center">Full-stack Developer | AI & NLP Enthusiast | Cloud & Automation Expert | Skilled in React, Node.js, Python, and Deep Learning</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2kxdndrbGJzeG55cnQ2cjJsOXE4N3dybWgwejg4bnBhdjA1bGRpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/AtemeKRsPRVESJ8zRq/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biradarscripts&label=Profile%20views&color=0e75b6&style=flat" alt="biradarscripts" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biradarscripts" alt="biradarscripts" /></a> </p>
 
 - 🔭 I’m currently working on [Smart Vision Technology Quality Control](https://github.com/BiradarScripts/Smart-Vision-Technology-Quality-Control-)
 
