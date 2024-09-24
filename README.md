@@ -1,4 +1,4 @@
-[![Masterhead]([https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2kxdndrbGJzeG55cnQ2cjJsOXE4N3dybWgwejg4bnBhdjA1bGRpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/AtemeKRsPRVESJ8zRq/giphy.gif](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif))]
+![Masterhead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Shreyas Biradar</h1>
 <h3 align="center">Full-stack Developer | AI & NLP Enthusiast | Cloud & Automation Expert | Skilled in React, Node.js, Python, and Deep Learning</h3>
 
