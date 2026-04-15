@@ -1,0 +1,163 @@
+<svg width="1600" height="540" viewBox="0 0 1600 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="40" x2="1540" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#071018"/>
+      <stop offset="0.5" stop-color="#0C1825"/>
+      <stop offset="1" stop-color="#101B2B"/>
+    </linearGradient>
+    <linearGradient id="lineGlow" x1="170" y1="0" x2="1330" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E7FF"/>
+      <stop offset="0.5" stop-color="#FF7A59"/>
+      <stop offset="1" stop-color="#FFC857"/>
+    </linearGradient>
+    <linearGradient id="barA" x1="0" y1="0" x2="280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E7FF"/>
+      <stop offset="1" stop-color="#7A8CFF"/>
+    </linearGradient>
+    <linearGradient id="barB" x1="0" y1="0" x2="280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF7A59"/>
+      <stop offset="1" stop-color="#FFC857"/>
+    </linearGradient>
+    <radialGradient id="orbA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(260 120) rotate(90) scale(240 240)">
+      <stop stop-color="#00E7FF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#00E7FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1360 420) rotate(90) scale(260 260)">
+      <stop stop-color="#FF7A59" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#FF7A59" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" stroke="#1C2A3B" stroke-width="1"/>
+    </pattern>
+    <filter id="softBlur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="hardGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="540" rx="34" fill="url(#bg)"/>
+  <rect width="1600" height="540" rx="34" fill="url(#grid)" opacity="0.42"/>
+
+  <circle cx="260" cy="120" r="240" fill="url(#orbA)"/>
+  <circle cx="1360" cy="420" r="260" fill="url(#orbB)"/>
+  <circle cx="240" cy="98" r="92" fill="#00E7FF" fill-opacity="0.14" filter="url(#softBlur)"/>
+  <circle cx="1380" cy="404" r="96" fill="#FF7A59" fill-opacity="0.14" filter="url(#softBlur)"/>
+
+  <g opacity="0.72">
+    <path d="M170 88H1330" stroke="url(#lineGlow)" stroke-width="2"/>
+    <circle cx="170" cy="88" r="5" fill="#00E7FF"/>
+    <circle cx="1330" cy="88" r="5" fill="#FFC857"/>
+    <path d="M170 442H760" stroke="#31455D" stroke-width="2"/>
+    <path d="M950 442H1430" stroke="#31455D" stroke-width="2"/>
+  </g>
+
+  <g opacity="0.8">
+    <path d="M1010 170C1085 135 1145 226 1205 204C1268 181 1310 145 1390 193" stroke="#00E7FF" stroke-width="3" fill="none" filter="url(#hardGlow)"/>
+    <circle cx="1010" cy="170" r="5" fill="#00E7FF"/>
+    <circle cx="1205" cy="204" r="5" fill="#FF7A59"/>
+    <circle cx="1390" cy="193" r="5" fill="#FFC857"/>
+  </g>
+
+  <text x="120" y="152" fill="#7DF9FF" font-size="22" font-weight="700" letter-spacing="5" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    AI ENGINEER / MULTIMODAL BUILDER
+  </text>
+  <text x="120" y="250" fill="#F8FBFF" font-size="88" font-weight="800" letter-spacing="-2" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    SHREYAS
+  </text>
+  <text x="120" y="340" fill="#F8FBFF" font-size="88" font-weight="800" letter-spacing="-2" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    BIRADAR
+  </text>
+  <text x="120" y="392" fill="#B8C7D9" font-size="28" font-weight="500" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    Shipping research-grade AI into real systems with speed, taste, and rigor.
+  </text>
+
+  <g transform="translate(120 430)">
+    <rect width="188" height="38" rx="19" fill="#0F1C2B" stroke="#21425C"/>
+    <text x="20" y="25" fill="#DFFAFF" font-size="16" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+      KRUTRIM AI (OLA)
+    </text>
+  </g>
+  <g transform="translate(324 430)">
+    <rect width="190" height="38" rx="19" fill="#0F1C2B" stroke="#21425C"/>
+    <text x="20" y="25" fill="#FFE6DE" font-size="16" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+      FASTAPI + AWS EKS
+    </text>
+  </g>
+  <g transform="translate(530 430)">
+    <rect width="174" height="38" rx="19" fill="#0F1C2B" stroke="#21425C"/>
+    <text x="20" y="25" fill="#FFF1CC" font-size="16" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+      OPEN TO WORK
+    </text>
+  </g>
+
+  <g transform="translate(970 114)">
+    <rect width="470" height="304" rx="28" fill="#0C1622" fill-opacity="0.78" stroke="#24384F"/>
+    <text x="34" y="46" fill="#8EA8C5" font-size="16" font-weight="700" letter-spacing="3" font-family="monospace">
+      CONTROL DECK
+    </text>
+    <text x="34" y="84" fill="#F8FBFF" font-size="38" font-weight="800" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+      BUILD SIGNAL
+    </text>
+    <text x="34" y="114" fill="#A8B7C8" font-size="18" font-weight="500" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+      research x systems x product
+    </text>
+
+    <text x="34" y="162" fill="#DCE7F3" font-size="17" font-weight="700" font-family="monospace">
+      Multimodal Systems
+    </text>
+    <rect x="34" y="176" width="310" height="10" rx="5" fill="#142434"/>
+    <rect x="34" y="176" width="272" height="10" rx="5" fill="url(#barA)"/>
+
+    <text x="34" y="220" fill="#DCE7F3" font-size="17" font-weight="700" font-family="monospace">
+      AI Infrastructure
+    </text>
+    <rect x="34" y="234" width="310" height="10" rx="5" fill="#142434"/>
+    <rect x="34" y="234" width="286" height="10" rx="5" fill="url(#barB)"/>
+
+    <text x="34" y="278" fill="#DCE7F3" font-size="17" font-weight="700" font-family="monospace">
+      Evaluation Design
+    </text>
+    <rect x="34" y="292" width="310" height="10" rx="5" fill="#142434"/>
+    <rect x="34" y="292" width="246" height="10" rx="5" fill="url(#barA)"/>
+
+    <text x="34" y="336" fill="#DCE7F3" font-size="17" font-weight="700" font-family="monospace">
+      Product Shipping
+    </text>
+    <rect x="34" y="350" width="310" height="10" rx="5" fill="#142434"/>
+    <rect x="34" y="350" width="296" height="10" rx="5" fill="url(#barB)"/>
+
+    <g transform="translate(360 150)">
+      <rect width="76" height="76" rx="20" fill="#0F2031" stroke="#23415A"/>
+      <text x="38" y="34" text-anchor="middle" fill="#00E7FF" font-size="12" font-weight="700" letter-spacing="2" font-family="monospace">
+        STACK
+      </text>
+      <text x="38" y="56" text-anchor="middle" fill="#F8FBFF" font-size="22" font-weight="800" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+        AI
+      </text>
+    </g>
+    <g transform="translate(360 244)">
+      <rect width="76" height="76" rx="20" fill="#0F2031" stroke="#23415A"/>
+      <text x="38" y="34" text-anchor="middle" fill="#FF7A59" font-size="12" font-weight="700" letter-spacing="2" font-family="monospace">
+        MODE
+      </text>
+      <text x="38" y="56" text-anchor="middle" fill="#F8FBFF" font-size="18" font-weight="800" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+        SHIP
+      </text>
+    </g>
+  </g>
+
+  <g transform="translate(120 476)">
+    <circle cx="0" cy="0" r="6" fill="#00E7FF"/>
+    <circle cx="20" cy="0" r="6" fill="#FF7A59"/>
+    <circle cx="40" cy="0" r="6" fill="#FFC857"/>
+    <text x="70" y="6" fill="#8EA8C5" font-size="15" font-weight="700" letter-spacing="3" font-family="monospace">
+      RESEARCH TO REALITY / PRODUCT TO SCALE
+    </text>
+  </g>
+</svg>
