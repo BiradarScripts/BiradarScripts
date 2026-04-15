@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=23&duration=2600&pause=700&color=7DF9FF&center=true&vCenter=true&width=1100&lines=Shipping+AI+systems+that+survive+contact+with+reality.;Krutrim+AI+(OLA)+%7C+FastAPI+%7C+AWS+EKS+%7C+Multilingual+ETL;Multimodal+VQA+%7C+Forecasting+%7C+DocAI+%7C+Accessibility;5x+National+Hackathon+Winner+%7C+Amazon+ML+AIR+156+%7C+Open+to+Work" alt="Typing animation" />
 </div>
 
+
+
 <div align="center">
   <a href="https://github.com/BiradarScripts">
     <img src="https://komarev.com/ghpvc/?username=BiradarScripts&style=for-the-badge&color=09131D&labelColor=00E7FF&label=PROFILE+VIEWS" alt="Profile views" />
@@ -16,6 +18,28 @@
 </div>
 
 <br/>
+<br/>
+
+
+```
+🇮🇳
+                      ╔═══════════════════════════════════════════════════════════════════════╗
+                      ║                                                                       ║
+                      ║   ██████╗  █████╗ ██╗     ██╗██████╗  █████╗  █████╗ ███╗   ██╗       ║
+                      ║   ██╔══██╗██╔══██╗██║     ██║██╔══██╗██╔══██╗██╔══██╗████╗  ██║       ║
+                      ║   ██████╔╝███████║██║     ██║██║  ██║███████║███████║██╔██╗ ██║       ║
+                      ║   ██╔══██╗██╔══██║██║     ██║██║  ██║██╔══██║██╔══██║██║╚██╗██║       ║
+                      ║   ██████╔╝██║  ██║███████╗██║██████╔╝██║  ██║██║  ██║██║ ╚████║       ║
+                      ║   ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝       ║
+                      ║                                                                       ║
+                      ║    alias: Balidaan  · IIIT Bangalore  · Bengaluru, India              ║
+                      ║    status: Building at the edge of inference                          ║
+                      ╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+<br/>
+
 
 <table>
 <tr>
