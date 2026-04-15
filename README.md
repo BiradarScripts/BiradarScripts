@@ -1,4 +1,24 @@
 
+```
+🇮🇳
+            ╔═══════════════════════════════════════════════════════════════════════╗
+            ║                                                                       ║
+            ║   ██████╗  █████╗ ██╗     ██╗██████╗  █████╗  █████╗ ███╗   ██╗       ║
+            ║   ██╔══██╗██╔══██╗██║     ██║██╔══██╗██╔══██╗██╔══██╗████╗  ██║       ║
+            ║   ██████╔╝███████║██║     ██║██║  ██║███████║███████║██╔██╗ ██║       ║
+            ║   ██╔══██╗██╔══██║██║     ██║██║  ██║██╔══██║██╔══██║██║╚██╗██║       ║
+            ║   ██████╔╝██║  ██║███████╗██║██████╔╝██║  ██║██║  ██║██║ ╚████║       ║
+            ║   ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝       ║
+            ║                                                                       ║
+            ║    alias: Balidaan  · IIIT Bangalore  · Bengaluru, India              ║
+            ║    status: Building at the edge of inference                          ║
+            ╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+<br/>
+
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=23&duration=2600&pause=700&color=7DF9FF&center=true&vCenter=true&width=1100&lines=Shipping+AI+systems+that+survive+contact+with+reality.;Krutrim+AI+(OLA)+%7C+FastAPI+%7C+AWS+EKS+%7C+Multilingual+ETL;Multimodal+VQA+%7C+Forecasting+%7C+DocAI+%7C+Accessibility;5x+National+Hackathon+Winner+%7C+Amazon+ML+AIR+156+%7C+Open+to+Work" alt="Typing animation" />
 </div>
@@ -21,25 +41,6 @@
 <br/>
 
 
-```
-🇮🇳
-            ╔═══════════════════════════════════════════════════════════════════════╗
-            ║                                                                       ║
-            ║   ██████╗  █████╗ ██╗     ██╗██████╗  █████╗  █████╗ ███╗   ██╗       ║
-            ║   ██╔══██╗██╔══██╗██║     ██║██╔══██╗██╔══██╗██╔══██╗████╗  ██║       ║
-            ║   ██████╔╝███████║██║     ██║██║  ██║███████║███████║██╔██╗ ██║       ║
-            ║   ██╔══██╗██╔══██║██║     ██║██║  ██║██╔══██║██╔══██║██║╚██╗██║       ║
-            ║   ██████╔╝██║  ██║███████╗██║██████╔╝██║  ██║██║  ██║██║ ╚████║       ║
-            ║   ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝       ║
-            ║                                                                       ║
-            ║    alias: Balidaan  · IIIT Bangalore  · Bengaluru, India              ║
-            ║    status: Building at the edge of inference                          ║
-            ╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-<br/>
-
 
 <table>
 <tr>
@@ -51,7 +52,7 @@ class ShreyasBiradar:
     base = "IIIT Bangalore | Bengaluru, India"
     current_station = "Krutrim AI (OLA)"
     education = "IMTech ECE (2022-2027)"
-    contact = "pei2004shreyas@gmail.com"
+    contact = "i2004shreyas@gmail.com"
 
     def now(self):
         return [
@@ -63,7 +64,7 @@ class ShreyasBiradar:
         ]
 
     def edge(self):
-        return "research depth x systems discipline x product instinct"
+        return "research depth x Distributed systems x product instinct"
 
     def philosophy(self):
         return "Build with force. Measure honestly. Ship what matters."
@@ -219,7 +220,7 @@ flowchart LR
 ## `handshake://build-something-hard`
 
 <div align="center">
-  <a href="mailto:pei2004shreyas@gmail.com">
+  <a href="mailto:i2004shreyas@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-CONNECT-09131D?style=for-the-badge&labelColor=00E7FF" alt="Email" />
   </a>
   <a href="https://github.com/BiradarScripts?tab=repositories">
@@ -247,3 +248,5 @@ flowchart LR
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,19,24,25,30" alt="Footer" width="100%" />
 </div>
+
+
