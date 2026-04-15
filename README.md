@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=0,2,2,5,30&text=SHREYAS%20BIRADAR&fontSize=62&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Multimodal%20Builder%20%E2%80%A2%20Researcher&descSize=18&descAlignY=68&stroke=8CFF95&strokeWidth=2&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;height=300&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;text=SHREYAS%20BIRADAR&amp;fontSize=66&amp;fontColor=ffffff&amp;fontAlignY=44&amp;desc=AI%20ENGINEER%20%E2%80%A2%20MULTIMODAL%20SYSTEMS%20%E2%80%A2%20SHIPS%20HARD%20THINGS&amp;descSize=18&amp;descAlignY=68&amp;stroke=8CFF95&amp;strokeWidth=2&amp;animation=twinkling" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=8CFF95&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+AI+Infrastructure+%40+Krutrim+AI+%28OLA%29;Multimodal+VQA+%7C+Market+Forecasting+%7C+LLMs;5%C3%97+National+Hackathon+Winner+%E2%80%A2+AMZ+ML+AIR+156;From+ECG+Signals+to+Production+AI+%E2%80%94+I+ship+it+all." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2600&amp;pause=700&amp;color=8CFF95&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=54&amp;lines=I+build+AI+systems+that+don%27t+feel+like+demos.;Krutrim+AI+%28OLA%29+%E2%80%A2+FastAPI+%E2%80%A2+AWS+EKS+%E2%80%A2+Multilingual+ETL;Multimodal+VQA+%E2%80%A2+Quant-Gambit+%E2%80%A2+LedgerShield+%E2%80%A2+Brailey;5%C3%97+National+Hackathon+Winner+%E2%80%A2+Amazon+ML+AIR+156+%E2%80%A2+Open+to+Work" />
 
 </div>
 
@@ -16,79 +16,78 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=BiradarScripts&style=for-the-badge&color=0d1117&labelColor=8CFF95&label=PROFILE+VIEWS)](https://github.com/BiradarScripts)
 [![Followers](https://img.shields.io/github/followers/BiradarScripts?style=for-the-badge&color=0d1117&labelColor=58E0FF&label=FOLLOWERS)](https://github.com/BiradarScripts?tab=followers)
-[![Repos](https://img.shields.io/badge/48+-0d1117?style=for-the-badge&labelColor=B667FF&label=REPOSITORIES)](https://github.com/BiradarScripts?tab=repositories)
-[![Commits](https://img.shields.io/badge/2K+-0d1117?style=for-the-badge&labelColor=FF6B6B&label=TOTAL+COMMITS)](https://github.com/BiradarScripts)
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-0d1117?style=for-the-badge&labelColor=FF6B6B)
+![Amazon ML](https://img.shields.io/badge/AMAZON%20ML-AIR%20156-0d1117?style=for-the-badge&labelColor=B667FF)
+![Hackathons](https://img.shields.io/badge/HACKATHONS-5%C3%97%20WINS-0d1117?style=for-the-badge&labelColor=FFBF4A)
 
 </div>
 
----
-
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   ██████╗  █████╗ ██╗     ██╗██████╗  █████╗  █████╗ ███╗   ██╗       ║
-║   ██╔══██╗██╔══██╗██║     ██║██╔══██╗██╔══██╗██╔══██╗████╗  ██║       ║
-║   ██████╔╝███████║██║     ██║██║  ██║███████║███████║██╔██╗ ██║       ║
-║   ██╔══██╗██╔══██║██║     ██║██║  ██║██╔══██║██╔══██║██║╚██╗██║       ║
-║   ██████╔╝██║  ██║███████╗██║██████╔╝██║  ██║██║  ██║██║ ╚████║       ║
-║   ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝       ║
-║                                                                          ║
-║      alias: Balidaan  ·  IIIT Bangalore  ·  Bengaluru, India  🇮🇳       ║
-║      status: 🔍 Open to work  ·  Building at the edge of inference      ║
-╚══════════════════════════════════════════════════════════════════════════╝
+```bash
+> sudo whoami
+
+Shreyas Biradar / Balidaan
+AI Engineer / Multimodal Builder / Researcher
+
+I build with research depth, systems discipline, and product aggression.
+Inference infra. Multimodal AI. Forecasting systems. Developer tooling.
+Not here to look busy. Here to ship work people remember.
 ```
 
 </div>
 
 ---
 
-## `whoami`
+## `class-profile`
 
 <table>
 <tr>
-<td width="52%">
+<td width="54%">
 
 ```python
 class ShreyasBiradar:
 
-    alias       = "Balidaan"
-    role        = "AI Engineer / Multimodal Builder"
-    education   = "IMTech ECE @ IIIT Bangalore (2022–2027)"
-    gpa         = "8.5+"
-    location    = "Bengaluru, India"
-    email       = "pei2004shreyas@gmail.com"
-    status      = "🔍 Open to work"
+    alias = "Balidaan"
+    role = "AI Engineer / Multimodal Builder"
+    base = "IIIT Bangalore · Bengaluru, India"
+    education = "IMTech ECE (2022–2027)"
+    contact = "pei2004shreyas@gmail.com"
+    status = "Open to work"
 
-    def currently_building(self) -> list:
+    def building_now(self):
         return [
-            "🤖 AI Infrastructure @ Krutrim AI (OLA)",
-            "🔮 Multimodal VQA  —  BLIP + LoRA",
-            "📈 Quant-Gambit  —  Mamba Forecasting",
-            "🛡️ LedgerShield  —  Adversarial DocAI",
-            "♿ Brailey  —  Accessibility for the blind",
+            "AI Infrastructure @ Krutrim AI (OLA)",
+            "Multimodal VQA — BLIP + LoRA",
+            "Quant-Gambit — LSTM vs Transformer vs Mamba",
+            "LedgerShield — adversarial DocAI benchmark",
+            "Brailey — accessibility for the blind",
         ]
 
-    def philosophy(self) -> str:
-        return (
-            "I own the full shape of a build — concept, "
-            "interface, APIs, systems, and the polish "
-            "that makes it feel expensive."
-        )
+    def edge(self):
+        return [
+            "research depth",
+            "systems discipline",
+            "product taste",
+            "ship > talk",
+        ]
 
-    def fun_fact(self) -> str:
-        return "ECG signals → LLMs. Code meets creativity."
+    def philosophy(self):
+        return (
+            "Design for the edge case. "
+            "Build for scale. "
+            "Ship for impact."
+        )
 ```
 
 </td>
-<td width="48%" align="center">
+<td width="46%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BiradarScripts&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BiradarScripts&amp;theme=github_dark" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BiradarScripts&theme=github_dark&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BiradarScripts&amp;theme=github_dark&amp;utcOffset=5.5" />
 
 </td>
 </tr>
@@ -96,28 +95,32 @@ class ShreyasBiradar:
 
 ---
 
-## `./stats --all`
+## `./telemetry --live`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BiradarScripts&bg_color=0d1117&color=8CFF95&line=58E0FF&point=B667FF&area=true&area_color=1a2a1a&hide_border=false&border_color=30363d&radius=8" alt="Contribution Graph" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BiradarScripts&amp;theme=matrix&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=6&amp;margin-w=14&amp;margin-h=14" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BiradarScripts&amp;bg_color=0d1117&amp;color=8CFF95&amp;line=58E0FF&amp;point=B667FF&amp;area=true&amp;area_color=1a2a1a&amp;hide_border=false&amp;border_color=30363d&amp;radius=10" alt="Contribution Graph" width="100%"/>
 
 <br/><br/>
 
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=BiradarScripts&show_icons=true&theme=transparent&bg_color=0d1117&title_color=8CFF95&text_color=c9d1d9&icon_color=58E0FF&border_color=30363d&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=BiradarScripts&amp;show_icons=true&amp;theme=transparent&amp;bg_color=0d1117&amp;title_color=8CFF95&amp;text_color=c9d1d9&amp;icon_color=58E0FF&amp;border_color=30363d&amp;border_radius=12&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiradarScripts&layout=donut&theme=transparent&bg_color=0d1117&title_color=B667FF&text_color=c9d1d9&icon_color=B667FF&border_color=30363d&border_radius=12&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiradarScripts&amp;layout=donut&amp;theme=transparent&amp;bg_color=0d1117&amp;title_color=B667FF&amp;text_color=c9d1d9&amp;icon_color=B667FF&amp;border_color=30363d&amp;border_radius=12&amp;langs_count=8" />
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BiradarScripts&theme=transparent&background=0d1117&border=30363d&stroke=8CFF95&ring=58E0FF&fire=FF6B6B&currStreakLabel=8CFF95&sideNums=58E0FF&currStreakNum=ffffff&sideLabels=c9d1d9&dates=888888&border_radius=12" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BiradarScripts&amp;theme=transparent&amp;background=0d1117&amp;border=30363d&amp;stroke=8CFF95&amp;ring=58E0FF&amp;fire=FF6B6B&amp;currStreakLabel=8CFF95&amp;sideNums=58E0FF&amp;currStreakNum=ffffff&amp;sideLabels=c9d1d9&amp;dates=888888&amp;border_radius=12" />
 
 <br/><br/>
 
@@ -131,7 +134,7 @@ class ShreyasBiradar:
 
 ---
 
-## `./achievements --verbose`
+## `./impact --proof`
 
 <div align="center">
 
@@ -140,34 +143,34 @@ class ShreyasBiradar:
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🥇-WINNER-FFD700?style=for-the-badge&labelColor=0d1117" /><br/>
 <b>Accenture Innovation Challenge</b><br/>
-<sub>AI site + ads + CI/CD generator</sub>
+<sub>AI website + ads + CI/CD generator</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🥇-WINNER-FFD700?style=for-the-badge&labelColor=0d1117" /><br/>
-<b>Codeathon · RBIH & Canara Bank</b><br/>
+<b>Codeathon · RBIH &amp; Canara Bank</b><br/>
 <sub>AI-driven MSME identity system</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🏅-AIR%20156-FF9900?style=for-the-badge&labelColor=0d1117" /><br/>
 <b>Amazon ML Challenge</b><br/>
-<sub>Multimodal price predictor</sub>
+<sub>Multimodal price prediction under pressure</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🎯-TOP%205-34A853?style=for-the-badge&labelColor=0d1117" /><br/>
 <b>Google GenAI Exchange</b><br/>
-<sub>Agentic code generation flow</sub>
+<sub>Agentic code generation finalist</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/🥈-RUNNER--UP-C0C0C0?style=for-the-badge&labelColor=0d1117" /><br/>
 <b>Flipkart Grid 6.0</b><br/>
-<sub>Food freshness · MRP · Expiry CV</sub>
+<sub>Food freshness · MRP · expiry CV</sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🏆-5×%20WINS-8CFF95?style=for-the-badge&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/🏆-5%C3%97%20WINS-8CFF95?style=for-the-badge&labelColor=0d1117" /><br/>
 <b>National Hackathons</b><br/>
-<sub>AI · Product · Fintech domains</sub>
+<sub>AI · product · fintech problem spaces</sub>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/🔬-RESEARCH-58E0FF?style=for-the-badge&labelColor=0d1117" /><br/>
@@ -190,37 +193,32 @@ class ShreyasBiradar:
 
 ```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  2022 ── Enrolled @ IIIT Bangalore · IMTech ECE · Compiler brain unlocked
+  2022 ── IIIT Bangalore · IMTech ECE · systems foundation locked in
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         Projects: EconeXus (MERN community platform) · Apna Doctor
+         Projects: EconeXus · Apna Doctor
          Research: ECG signal processing → heart rate & breath rate estimation
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  2023 ── Shipped Summarize.ai · Built Vaani X · 2× hackathon wins
+  2023 ── Shipped Vaani X · Summarize.ai · hackathon momentum kicks in
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         Vaani X: Kannada speech → transcription → RAG → voice output
-         Foundation: Full-stack + NLP + systems base locked in
+         Voice pipelines, NLP systems, and stronger full-stack instincts
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  2024 ── SDE Intern @ Think LogiTech · 1.2K+ users shipped to
+  2024 ── Think LogiTech intern · AsyncAPI OSS · AIR 156 · Flipkart podium
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         [Jun–Sep] Think LogiTech: PG management platform · 100+ properties
-         [Dec–Jan] AsyncAPI OSS: Factory Pattern · unified message/call/mail
-         Amazon ML Challenge → AIR 156 · Flipkart Grid → 2nd Runner-up
+         PG platform shipped across 100+ properties and 1.2K+ users
          Projects: Brailey · Seva.ai · Prompt-flow · NanoCredit.AI
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  2025 ── Research Intern @ Krutrim AI (OLA) · Google GenAI → Top 5
+  2025 ── Krutrim AI (OLA) · multilingual ETL · FastAPI services · AWS EKS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-         [May–Jul] Krutrim AI: Multilingual ETL · FastAPI model services
-                   Scalable inference integration on AWS EKS
-         Research: Multimodal VQA (BLIP + LoRA · custom eval beyond ExMatch)
+         Research: Multimodal VQA with custom evaluation beyond exact match
          Projects: Quant-Gambit · LedgerShield · Redactor · VisionYard Pro
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  2026 ── 🔍 Open · Building · Shipping                             NOW ▶
+  2026 ── OPEN TO WORK · BUILDING · SHIPPING                         NOW ▶
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-## `./projects --featured`
+## `./featured-systems`
 
 <div align="center">
 
@@ -229,9 +227,9 @@ class ShreyasBiradar:
 <td width="50%">
 
 ### 🧠 Multimodal VQA
-> *PyTorch · BLIP · LoRA · HuggingFace*
+> *PyTorch · BLIP · LoRA · Hugging Face*
 
-Visual Question Answering trained on large curated image sets. Custom evaluation diagnostics that go **beyond exact match** accuracy — building the eval layer most papers skip.
+Visual Question Answering trained on large curated image sets with custom evaluation diagnostics that go **beyond exact match**.
 
 `research` `vision-language` `fine-tuning` `ongoing`
 
@@ -241,7 +239,7 @@ Visual Question Answering trained on large curated image sets. Custom evaluation
 ### 📈 Quant-Gambit
 > *Python · PyTorch · Mamba · Docker*
 
-Market-state forecasting system benchmarking **LSTM vs Transformer vs Mamba** in a reproducible offline eval framework. Where state-space models meet quantitative signals.
+Market-state forecasting system benchmarking **LSTM vs Transformer vs Mamba** inside a reproducible offline evaluation framework.
 
 `forecasting` `mamba` `docker` `quant`
 
@@ -253,9 +251,9 @@ Market-state forecasting system benchmarking **LSTM vs Transformer vs Mamba** in
 ### 🛡️ LedgerShield
 > *Python · FastAPI · Adversarial Benchmark*
 
-Stateful, adversarial benchmark for AI agents operating inside enterprise accounts-payable workflows. Built for Meta's challenge — stress-testing document intelligence at scale.
+Stateful benchmark for AI agents operating inside enterprise accounts-payable workflows. Built to stress-test DocAI, not flatter it.
 
-`enterprise-ai` `benchmark` `adversarial` `docai`
+`enterprise-ai` `benchmark` `docai` `adversarial`
 
 </td>
 <td width="50%">
@@ -263,9 +261,9 @@ Stateful, adversarial benchmark for AI agents operating inside enterprise accoun
 ### ♿ Brailey
 > *Next.js · FastAPI · LangChain · Firebase*
 
-Handwritten-note workflow for visually impaired students. Local file transfer → parsing → real-time summarization. **Live at [brailey.vercel.app](https://brailey.vercel.app)**
+Handwritten-note workflow for visually impaired students with local transfer, parsing, and real-time summarization.
 
-`accessibility` `multimodal` `langchain` `live`
+`accessibility` `multimodal` `live` `impact`
 
 </td>
 </tr>
@@ -275,7 +273,7 @@ Handwritten-note workflow for visually impaired students. Local file transfer �
 ### 🎙️ Vaani X
 > *Whisper · LLaMA · RAG · AWS Kinesis*
 
-Kannada speech → transcription → retrieval → fluid text+voice interaction. A full voice intelligence pipeline built from first principles, not wrappers.
+Kannada speech to transcription, retrieval, and fluid voice interaction. Built from first principles instead of wrappers.
 
 `voice-ai` `rag` `regional-language` `realtime`
 
@@ -285,7 +283,7 @@ Kannada speech → transcription → retrieval → fluid text+voice interaction.
 ### 🔐 Redactor
 > *Python · Indian Kanoon API · NLP*
 
-Context-aware PII masker for Indian legal documents. Interfaces with the Indian Kanoon API to fetch and intelligently anonymize sensitive legal data.
+Context-aware PII masker for Indian legal documents with targeted anonymization logic and legal-tech utility.
 
 `privacy` `nlp` `legal-tech` `pii`
 
@@ -298,33 +296,33 @@ Context-aware PII masker for Indian legal documents. Interfaces with the Indian 
 <div align="center">
 
 <a href="https://github.com/BiradarScripts/Quant-Gambit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BiradarScripts&repo=Quant-Gambit&theme=transparent&bg_color=0d1117&title_color=58E0FF&text_color=c9d1d9&icon_color=58E0FF&border_color=30363d&border_radius=10" /></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BiradarScripts&amp;repo=Quant-Gambit&amp;theme=transparent&amp;bg_color=0d1117&amp;title_color=58E0FF&amp;text_color=c9d1d9&amp;icon_color=58E0FF&amp;border_color=30363d&amp;border_radius=10" /></a>
 <a href="https://github.com/BiradarScripts/Brailey">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BiradarScripts&repo=Brailey&theme=transparent&bg_color=0d1117&title_color=8CFF95&text_color=c9d1d9&icon_color=8CFF95&border_color=30363d&border_radius=10" /></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BiradarScripts&amp;repo=Brailey&amp;theme=transparent&amp;bg_color=0d1117&amp;title_color=8CFF95&amp;text_color=c9d1d9&amp;icon_color=8CFF95&amp;border_color=30363d&amp;border_radius=10" /></a>
 
 <a href="https://github.com/BiradarScripts/Vaani-X">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BiradarScripts&repo=Vaani-X&theme=transparent&bg_color=0d1117&title_color=B667FF&text_color=c9d1d9&icon_color=B667FF&border_color=30363d&border_radius=10" /></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BiradarScripts&amp;repo=Vaani-X&amp;theme=transparent&amp;bg_color=0d1117&amp;title_color=B667FF&amp;text_color=c9d1d9&amp;icon_color=B667FF&amp;border_color=30363d&amp;border_radius=10" /></a>
 <a href="https://github.com/BiradarScripts/Meta-s-LedgerShield">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BiradarScripts&repo=Meta-s-LedgerShield&theme=transparent&bg_color=0d1117&title_color=FF6B6B&text_color=c9d1d9&icon_color=FF6B6B&border_color=30363d&border_radius=10" /></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BiradarScripts&amp;repo=Meta-s-LedgerShield&amp;theme=transparent&amp;bg_color=0d1117&amp;title_color=FF6B6B&amp;text_color=c9d1d9&amp;icon_color=FF6B6B&amp;border_color=30363d&amp;border_radius=10" /></a>
 
 <a href="https://github.com/BiradarScripts/Redactor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BiradarScripts&repo=Redactor&theme=transparent&bg_color=0d1117&title_color=FF60D0&text_color=c9d1d9&icon_color=FF60D0&border_color=30363d&border_radius=10" /></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BiradarScripts&amp;repo=Redactor&amp;theme=transparent&amp;bg_color=0d1117&amp;title_color=FF60D0&amp;text_color=c9d1d9&amp;icon_color=FF60D0&amp;border_color=30363d&amp;border_radius=10" /></a>
 <a href="https://github.com/BiradarScripts/NanoCredit.AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BiradarScripts&repo=NanoCredit.AI&theme=transparent&bg_color=0d1117&title_color=FFBF4A&text_color=c9d1d9&icon_color=FFBF4A&border_color=30363d&border_radius=10" /></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BiradarScripts&amp;repo=NanoCredit.AI&amp;theme=transparent&amp;bg_color=0d1117&amp;title_color=FFBF4A&amp;text_color=c9d1d9&amp;icon_color=FFBF4A&amp;border_color=30363d&amp;border_radius=10" /></a>
 
 </div>
 
 ---
 
-## `./stack --full`
+## `./arsenal --stack`
 
 <div align="center">
 
-### ◈ AI & Machine Learning
+### ◈ AI / ML
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=fff)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21F?style=for-the-badge&logoColor=000)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21F?style=for-the-badge&logoColor=000)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=8CFF95)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=fff)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=fff)
@@ -342,7 +340,7 @@ Context-aware PII masker for Indian legal documents. Interfaces with the Indian 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fff)
 ![Verilog](https://img.shields.io/badge/Verilog-E50914?style=for-the-badge&logoColor=fff)
 
-### ◈ Web & Backend
+### ◈ Web / Backend / Cloud
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
@@ -350,16 +348,9 @@ Context-aware PII masker for Indian legal documents. Interfaces with the Indian 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=8CFF95)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-
-### ◈ Cloud, DevOps & Data
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=fff)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)
@@ -374,7 +365,7 @@ Context-aware PII masker for Indian legal documents. Interfaces with the Indian 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/⚡%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=8CFF95)](https://balidaan-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/%E2%9A%A1%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=8CFF95)](https://balidaan-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/shreyas-biradar/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:pei2004shreyas@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=000)](https://leetcode.com/balidaan)
@@ -388,7 +379,7 @@ Context-aware PII masker for Indian legal documents. Interfaces with the Indian 
 <div align="center">
 
 ```python
-# The loop that keeps running ∞
+# The loop stays the same.
 
 while alive:
     learn()
@@ -397,15 +388,15 @@ while alive:
     break_things()
     fix_faster()
 
-print("⚡  Build. Ship. Scale. Repeat.")
+print("Build. Ship. Scale. Repeat.")
 ```
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Design+for+the+edge+case.+Build+for+the+scale.+Ship+for+the+impact.&author=Balidaan" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp;border=true&amp;quote=Design+for+the+edge+case.+Build+for+scale.+Ship+for+impact.&amp;author=Balidaan" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,2,5,30&section=footer&reversal=false&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=110&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;section=footer&amp;reversal=false&amp;animation=twinkling" />
 
 </div>
