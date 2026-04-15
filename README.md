@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2600&amp;pause=700&amp;color=8CFF95&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=54&amp;lines=I+build+AI+systems+that+don%27t+feel+like+demos.;Krutrim+AI+%28OLA%29+%E2%80%A2+FastAPI+%E2%80%A2+AWS+EKS+%E2%80%A2+Multilingual+ETL;Multimodal+VQA+%E2%80%A2+Quant-Gambit+%E2%80%A2+LedgerShield+%E2%80%A2+Brailey;5%C3%97+National+Hackathon+Winner+%E2%80%A2+Amazon+ML+AIR+156+%E2%80%A2+Open+to+Work" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2400&amp;pause=650&amp;color=8CFF95&amp;center=true&amp;vCenter=true&amp;width=940&amp;height=54&amp;lines=I+build+AI+systems+that+hit+hard+and+ship+clean.;Krutrim+AI+%28OLA%29+%E2%80%A2+FastAPI+%E2%80%A2+AWS+EKS+%E2%80%A2+Multilingual+ETL;Multimodal+VQA+%E2%80%A2+Forecasting+%E2%80%A2+DocAI+%E2%80%A2+Accessibility;5%C3%97+National+Hackathon+Winner+%E2%80%A2+Amazon+ML+AIR+156+%E2%80%A2+Open+to+Work" />
 
 </div>
 
@@ -25,14 +25,16 @@
 <div align="center">
 
 ```bash
-> sudo whoami
+> ./boot_profile.sh
 
-Shreyas Biradar / Balidaan
-AI Engineer / Multimodal Builder / Researcher
+alias        = Balidaan
+operator     = Shreyas Biradar
+mode         = AI Engineer / Multimodal Builder / Researcher
+mission      = ship systems people stop and stare at
 
-I build with research depth, systems discipline, and product aggression.
-Inference infra. Multimodal AI. Forecasting systems. Developer tooling.
-Not here to look busy. Here to ship work people remember.
+stack        = inference infra / multimodal AI / forecasting / product systems
+temperament  = offensive / experimental / execution-heavy
+output       = not toy demos, not pretty mockups, real shipped work
 ```
 
 </div>
@@ -95,6 +97,24 @@ class ShreyasBiradar:
 
 ---
 
+## `./current-targets`
+
+```yaml
+current_targets:
+  - "Krutrim AI (OLA): multilingual ETL, FastAPI model services, AWS EKS"
+  - "Multimodal VQA: BLIP + LoRA + custom eval beyond exact match"
+  - "Quant-Gambit: LSTM vs Transformer vs Mamba market forecasting"
+  - "LedgerShield: adversarial benchmark for enterprise DocAI agents"
+  - "Brailey: accessibility workflows for visually impaired students"
+
+what_i_optimize_for:
+  - "systems that survive contact with reality"
+  - "interfaces with force, not filler"
+  - "research that turns into shipped product"
+```
+
+---
+
 ## `./telemetry --live`
 
 <div align="center">
@@ -134,7 +154,7 @@ class ShreyasBiradar:
 
 ---
 
-## `./impact --proof`
+## `./wins --receipts`
 
 <div align="center">
 
