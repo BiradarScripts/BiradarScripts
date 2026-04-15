@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="./assets/profile-hero.svg" alt="Shreyas Biradar profile hero" width="100%" />
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=23&duration=2600&pause=700&color=7DF9FF&center=true&vCenter=true&width=1100&lines=Shipping+AI+systems+that+survive+contact+with+reality.;Krutrim+AI+(OLA)+%7C+FastAPI+%7C+AWS+EKS+%7C+Multilingual+ETL;Multimodal+VQA+%7C+Forecasting+%7C+DocAI+%7C+Accessibility;5x+National+Hackathon+Winner+%7C+Amazon+ML+AIR+156+%7C+Open+to+Work" alt="Typing animation" />
