@@ -16,7 +16,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=BiradarScripts&style=for-the-badge&color=0d1117&labelColor=8CFF95&label=PROFILE+VIEWS)](https://github.com/BiradarScripts)
 [![Followers](https://img.shields.io/github/followers/BiradarScripts?style=for-the-badge&color=0d1117&labelColor=58E0FF&label=FOLLOWERS)](https://github.com/BiradarScripts?tab=followers)
-[![Repos](https://img.shields.io/badge/47+-0d1117?style=for-the-badge&labelColor=B667FF&label=REPOSITORIES)](https://github.com/BiradarScripts?tab=repositories)
+[![Repos](https://img.shields.io/badge/48+-0d1117?style=for-the-badge&labelColor=B667FF&label=REPOSITORIES)](https://github.com/BiradarScripts?tab=repositories)
 [![Commits](https://img.shields.io/badge/2K+-0d1117?style=for-the-badge&labelColor=FF6B6B&label=TOTAL+COMMITS)](https://github.com/BiradarScripts)
 
 </div>
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-```
+```text
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
 ║   ██████╗  █████╗ ██╗     ██╗██████╗  █████╗  █████╗ ███╗   ██╗       ║
@@ -84,11 +84,11 @@ class ShreyasBiradar:
 </td>
 <td width="48%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BiradarScripts&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=8CFF95&text_color=c9d1d9" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BiradarScripts&theme=github_dark" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BiradarScripts&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58E0FF&text_color=c9d1d9&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BiradarScripts&theme=github_dark&utcOffset=5.5" />
 
 </td>
 </tr>
@@ -121,7 +121,6 @@ class ShreyasBiradar:
 
 <br/><br/>
 
-<!-- Snake Contribution Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiradarScripts/BiradarScripts/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BiradarScripts/BiradarScripts/output/github-snake.svg" />
@@ -150,7 +149,7 @@ class ShreyasBiradar:
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🏅-AIR%20156-FF9900?style=for-the-badge&labelColor=0d1117" /><br/>
-<b>Amazon ML Challenge 2024</b><br/>
+<b>Amazon ML Challenge</b><br/>
 <sub>Multimodal price predictor</sub>
 </td>
 <td align="center" width="25%">
@@ -189,7 +188,7 @@ class ShreyasBiradar:
 
 ## `./experience --timeline`
 
-```
+```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   2022 ── Enrolled @ IIIT Bangalore · IMTech ECE · Compiler brain unlocked
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
